@@ -1,7 +1,7 @@
 # Laporan Resmi Praktikum Modul 4 — Komunikasi Data & Jaringan Komputer 2026
 ## Layer:04 — The Wired Expansion (Serial Experiments Lain)
 
-**Kelompok:** [K-XX] — Group [A]
+**Kelompok:** [K-51] — Group [A]
 
 | Nama | NRP | Bagian |
 |---|---|---|
